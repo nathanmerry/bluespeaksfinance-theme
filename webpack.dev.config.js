@@ -57,7 +57,7 @@ module.exports = {
   devServer: configureDevServer(),
   devtool: 'source-map',
   entry: {
-    bundle: './src/assets/main.js',
+    bundle: './src/assets/bundle.js',
     twig: './src/views/twig.js'
   },
   mode: 'development',

@@ -1550,7 +1550,7 @@ module.exports = __webpack_require__(197);
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/wp-content/themes/theme/public/";
+/******/ 		__webpack_require__.p = "/wp-content/themes/bluespeaksfinance-theme/public/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/jsonp chunk loading */
@@ -1674,7 +1674,7 @@ var intl_tel_input_default = /*#__PURE__*/__webpack_require__.n(intl_tel_input);
     }
   });
 })();
-;// CONCATENATED MODULE: ./src/assets/main.js
+;// CONCATENATED MODULE: ./src/assets/bundle.js
 
 
 
@@ -1683,4 +1683,4 @@ var intl_tel_input_default = /*#__PURE__*/__webpack_require__.n(intl_tel_input);
 
 /******/ })()
 ;
-//# sourceMappingURL=main.7dcf1216.js.map
+//# sourceMappingURL=main.ef499ea6.js.map
