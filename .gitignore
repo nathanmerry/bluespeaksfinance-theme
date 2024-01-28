@@ -1,0 +1,13 @@
+# Webpack build directories
+dist/
+scratch/
+
+# Composer libs
+vendor/
+
+# Node.js lib
+# node_modules/
+
+# Lock files
+composer.lock
+package-lock.json
